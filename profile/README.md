@@ -1,45 +1,43 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/listune/.github/main/public/assets/listune.png" alt="Listune Banner" width="800">
+  
   <strong>
-      <p>Let SootheBot Bring Calm to Your Discord!</p>
-    <p>Soothe is a multi-purpose music bot ready to skill up and boost up your Discord server's voice activity.</p>
+    <p>Premium Music Experience, Completely Free.</p>
+    <p>Listune is a feature-rich Discord music bot designed to bring high-quality audio playback and a powerful web dashboard to your server.</p>
   </strong>
-<h3 align="center">
 
-![](https://visitor-badge.laobi.icu/badge?page_id=lrmn7.lrmn7&)
-[![discord](https://img.shields.io/badge/Invite_Bot-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.com/oauth2/authorize?response_type=code&client_id=1135657945653313566&scope=guilds.join%20bot%20applications.commands&permissions=826818161680&redirect_uri=https%3A%2F%2Fsoothe.is-a.fun%2Fthanks)](https://discord.com/oauth2/authorize?response_type=code&client_id=1135657945653313566&scope=guilds.join%20bot%20applications.commands&permissions=826818161680&redirect_uri=https%3A%2F%2Fsoothe.is-a.fun%2Fthanks)
-[![GitHub followers](https://img.shields.io/github/followers/soothe-bot?label=Follow&style=social)](https://github.com/soothe-bot)
-[![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/WFfjrQxnfH)](https://discord.gg/WFfjrQxnfH)
-[![Website](https://img.shields.io/badge/Website-Visit%20Now-blue?style=flat&logo=About.me&logoColor=white)](https://soothe.is-a.fun)
-
-</h3>
+  <h3 align="center">
+    <a href="https://listune.app/invite">
+      <img src="https://img.shields.io/badge/Invite_Bot-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Invite Listune">
+    </a>
+    <a href="https://listune.app/support">
+      <img src="https://img.shields.io/badge/Join_Support-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Join Support">
+    </a>
+    <a href="https://listune.app">
+      <img src="https://img.shields.io/badge/Website-Visit%20Now-blue?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
+    </a>
+  </h3>
 </div>
 
-## Join Server Discord
-<p align="center"> 
-  <a href="https://discord.gg/WFfjrQxnfH" target="_blank"> <img src="https://discordapp.com/api/guilds/1088032923443277824/widget.png?style=banner2"/> </a> 
-</p>
+---
 
-![logo](/assets/soothebot.gif)
+## 🎵 Why Listune?
 
-## Features
-- Interaction support.
-- Configurable, and easy to use.
-- Basic music and 24/7.
-- Support Youtube, Spotify, Soundcloud and etc
+Listune provides a professional-grade music experience without any paywalls or locked features.
 
-Visit [soothe.is-a.fun](https://soothe.is-a.fun/) to learn more!
+- **Real-time Web Dashboard:** Control your music, manage queues, and adjust settings from any browser.
+- **Crystal Clear Audio:** High-quality streaming from YouTube, Spotify, SoundCloud, Apple Music, and more.
+- **Interactive Music Trivia:** Challenge your community with our built-in guessing game.
+- **Powerful Audio Filters:** 25+ filters including Bass Boost, Nightcore, Vaporwave, and 3D spatial audio.
+- **Advanced Customization:** Dedicated song request channels, DJ roles, and personalized bot profiles.
+- **100% Free:** No premium subscriptions, no feature gating, and no mandatory voting.
 
-## Thanks to 
-[![Deploy Button](https://cdn.hop.io/assets/deploy-button/button.svg)](https://console.hop.io/deploy-button)
+## 📖 Get Started
 
-----
+1. [Invite Listune](https://listune.app/invite) to your Discord server.
+2. Visit our [Documentation](https://listune.app/docs) for a full command reference and setup guides.
+3. Start playing music with `/play`.
 
-<p align="center">Thank you for checking out our projects!<br>We appreciate any kind of support ❤️</p>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/LRMN">
-    <img alt="Donation" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png">
-  </a>
-</p>
+---
 
-###### We are in no way affiliated with, maintained, authorized, sponsored, or officially associated with Discord Inc or any of its subsidiaries or affiliates.
-<!-- Heavily inspired by https://github.com/crunchy-lab !-->
+###### Listune is not affiliated with, maintained, authorized, sponsored, or officially associated with Discord Inc or any of its subsidiaries or affiliates.
