@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/listune/.github/main/public/assets/listune.png" alt="Listune Banner" width="800">
+  <img src="https://raw.githubusercontent.com/listune/.github/refs/heads/main/assets/listune.png" alt="Listune Banner" width="800">
   
   <strong>
     <p>Premium Music Experience, Completely Free.</p>
