@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/listune/.github/refs/heads/main/assets/listune.png" alt="Listune Banner" width="800">
   
   <strong>
-    <p>Premium Music Experience, Completely Free.</p>
-    <p>Listune is a feature-rich Discord music bot designed to bring high-quality audio playback and a powerful web dashboard to your server.</p>
+    <p>Discover Listune Music for Discord Servers</p>
+    <p>Your music, wherever you play. Listen with friends in voice channels, launch the Discord Activity, or enjoy music from the web player.</p>
   </strong>
 
   <h3 align="center">
@@ -23,14 +23,48 @@
 
 ## 🎵 Why Listune?
 
-Listune provides a professional-grade music experience without any paywalls or locked features.
+### High-fidelity music streaming for Discord.
 
-- **Real-time Web Dashboard:** Control your music, manage queues, and adjust settings from any browser.
-- **Crystal Clear Audio:** High-quality streaming from YouTube, Spotify, SoundCloud, Apple Music, and more.
-- **Interactive Music Trivia:** Challenge your community with our built-in guessing game.
-- **Powerful Audio Filters:** 25+ filters including Bass Boost, Nightcore, Vaporwave, and 3D spatial audio.
-- **Advanced Customization:** Dedicated song request channels, DJ roles, and personalized bot profiles.
-- **100% Free:** No premium subscriptions, no feature gating, and no mandatory voting.
+Experience studio-grade audio streaming tailored for your community. Control playback seamlessly through Discord voice channels, an interactive real-time web dashboard, or native Discord Activities.
+
+![Request Songs Without Commands](https://listune.app/topgg/topgg-images-2.png)
+
+### Song Requests, Simplified
+
+Set up a dedicated request channel where members can queue tracks effortlessly just by typing a song name or link—no slash commands or complex syntax required.
+
+![Web Dashboard and Synced Lyrics](https://listune.app/topgg/topgg-images-1.png)
+
+### Modern Web Dashboard & Synced Lyrics
+
+Manage queues in real time, sing along with synchronized lyrics, adjust audio filters, and explore 200+ global radio stations directly from your browser.
+
+![Play From Any Source](https://listune.app/topgg/topgg-images-3.png)
+
+### Stream From Any Source in High Quality
+
+Stream seamlessly from Spotify, YouTube, Apple Music, SoundCloud, Deezer, Tidal, and more with optimized low latency and crystal-clear sound.
+
+![Explore and Personalize](https://listune.app/topgg/topgg-images-4.png)
+
+### Discover and Personalize
+
+Browse global trending charts, explore curated genres, and organize your favorite tracks into custom playlists with ease.
+
+---
+
+### Key Features
+
+* Modern Web Player & Remote Dashboard
+* Discord Embedded Activities (Servers, DMs & Group DMs)
+* Dedicated Song Request Channel (Queue by typing)
+* Real-time Synchronized Lyrics
+* 24/7 Playback & Auto-Reconnect
+* 1000+ Global Radio Stations & Lo-Fi Streams
+* Rich Multi-Platform Streaming Support
+* Advanced Audio Equalizers & Filters
+
+### Elevate Your Discord Audio Experience
 
 ## 📖 Get Started
 
